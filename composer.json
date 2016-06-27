@@ -1,0 +1,15 @@
+{
+    "name": "saas-ovation/issue-tracker",
+    "description": "The issue tracker of SaasOvation",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Felix Delval",
+            "email": "fdelval@magento.com"
+        }
+    ]
+}
