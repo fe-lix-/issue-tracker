@@ -11,5 +11,14 @@
             "name": "Felix Delval",
             "email": "fdelval@magento.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "SaasOvation\\IssueTracker\\": "src/",
+            "SaasOvation\\IssueTracker\\Test\\": "test/"
+        }
+    },
+    "require": {
+        "ramsey/uuid": "^3.4"
+    }
 }
